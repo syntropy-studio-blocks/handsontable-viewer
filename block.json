@@ -1,0 +1,14 @@
+{
+  "source": "code.js",
+  "inputs": [
+    {
+      "id": "data",
+      "type": "link"
+    },
+    {
+      "id": "licenseKey",
+      "type": "text"
+    }
+  ],
+  "outputs": []
+}

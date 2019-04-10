@@ -1,0 +1,30 @@
+{
+  "name": "handsontable-viewer",
+  "version": "1.0.0",
+  "description": "Renders tabular data using handsontable",
+  "main": "code.js",
+  "dependencies": {
+    "handsontable": "^7.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syntropy-studio-blocks/handsontable-viewer.git"
+  },
+  "keywords": [
+    "syntropy-studio-block",
+    "handsontable",
+    "datatable",
+    "viewer",
+    "renderer"
+  ],
+  "author": "Matt Way",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/syntropy-studio-blocks/handsontable-viewer/issues"
+  },
+  "homepage": "https://github.com/syntropy-studio-blocks/handsontable-viewer#readme"
+}
